@@ -54,5 +54,5 @@ The interactive dashboard was built with **Power BI**, integrating multiple data
 ## Insights
 - Countries with high trade deficits are disproportionately affected by tariffs.  
 - Tariff intensity varies across trade groups and directly impacts inflation indicators.  
-- Product categor
+- Product category
 

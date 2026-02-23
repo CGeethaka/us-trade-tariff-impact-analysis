@@ -7,7 +7,8 @@ The interactive dashboard was built with **Power BI**, integrating multiple data
 ---
 
 ## Dashboard Preview
-<img width="828" height="469" alt="Dashboard" src="https://github.com/user-attachments/assets/e9641657-9210-4b2b-a6f3-88f165aa5c30" />
+<img width="828" height="469" alt="Dashboard" src="https://github.com/user-attachments/assets/01a990a8-fc74-45b1-a970-d8973c3c92c6" />
+
 
 
 
